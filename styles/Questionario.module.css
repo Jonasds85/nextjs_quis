@@ -1,0 +1,7 @@
+.questionario{
+    display: flex;
+    flex-direction: column; /*coloca um embaixo do outro*/
+    justify-content: center;
+    align-items: center; /*centraliza com o tamanho definido, sem usar toda a largura*/
+    height: 100vh;
+}
